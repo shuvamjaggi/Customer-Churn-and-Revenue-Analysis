@@ -5,7 +5,7 @@ Author: Shuvam Jaggi
 
 1) INTRODUCTORY INFORMATION:
 
-i. project_report: Project Report /br
+i. project_report: Project Report <br>
 ii. q1_revenue_analysis: R codes for the analysis of question 1.
 iii. q2_churn_analysis: R codes for the analysis of question 2.
 iv. q3_marketing_email_analysis: R codes for the analysis of question 3.
